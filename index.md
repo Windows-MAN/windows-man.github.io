@@ -7,6 +7,14 @@ The applications is being rewritten, and will include command-line and later a G
 
 Developers write the manpages themselves, then use a utility called **Windows MAN Packager** to put them together as one, ready to be installed by an end user by using the GUI or the **manpkg** command-line app. The creators can distribute the packages in a **repository** that can be added to a list by the user and then installed using **manpkg install**. At least, that's how it should work.
 
+# What features do I plan to include?
+
+* A full package manager, complete with repository support
+* Rich Text Format support, to make content look way better than plain text can achieve
+* A much better user interface, as well as a command line edition
+* Support for AES encryption of packages
+* and possibly some more stuff I can't come up with.
+
 ## What about the older version?
 
 I wrote an older version alone in 2018 and released it to my forums, which no longer exist. It runs on .NET Framework 3.5 and later.
