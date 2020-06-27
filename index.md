@@ -15,7 +15,7 @@ Developers write the manpages themselves, then use a utility called **Windows MA
 * Support for AES encryption of packages
 * and possibly some more stuff I can't come up with.
 
-# How will it be structured?
+## How will it be structured?
 
 The older version of Windows MAN was a Windows Forms app with all the functionality built in.
 For Windows MAN X, the many features will become part of at least 2 libraries, with frontends that provide this functionality to the user.
