@@ -22,3 +22,8 @@ You can get the older versions using the links below:
 * [Windows MAN 1.0.2.0](https://mega.nz/file/M64RwDTb#W1Ol09gajACNyBTISbYez6rPLj-e8e9b1f6D4pxs8Ww)
 * [Windows MAN Packager 1.0.0.0](https://mega.nz/file/8ixnBZzS#uujZK2OtbcdduXP0XP1-QqBIoxzH9rOtdx7TVHdv4CQ)
 * [Windows MAN official package](https://mega.nz/file/0y4FiZrJ#4xYoEGCqsbyZJuVUqQEAzY559rs6sKSQXFqxjFL-MLY)
+
+# The team
+
+Well, the Windows MAN X "team" isn't really a team.
+It's just me, [23Sonics](https://23sonics.github.io/).
