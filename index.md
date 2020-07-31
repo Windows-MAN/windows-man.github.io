@@ -1,4 +1,4 @@
-# A packaged manual system for Windows
+# Docs Made Easier
 
 Welcome to Windows MAN - a new way to create, distribute and read docs for your projects and others.
 The applications is being rewritten, and will include command-line and later a GUI version.
@@ -18,7 +18,7 @@ Developers write the manpages themselves, then use a utility called **Windows MA
 ## How will it be structured?
 
 The older version of Windows MAN was a Windows Forms app with all the functionality built in.
-For Windows MAN X, the many features will become part of at least 2 libraries, with frontends that provide this functionality to the user.
+In the rewrite, the many features will become part of at least 2 libraries, with frontends that provide this functionality to the user.
 
 ## What about the older version?
 
@@ -31,4 +31,4 @@ You can get the older versions using the links below:
 ## The team
 
 Well, the Windows MAN X "team" isn't really a team.
-It's just me, [23Sonics](https://23sonics.github.io/).
+For now, it's just me ([23Sonics](https://23sonics.github.io/)) working alone.
