@@ -1,4 +1,4 @@
-# Docs Made Easier
+# Docs made easier
 
 Welcome to Windows MAN - a new way to create, distribute and read docs for your projects and others.
 The applications is being rewritten, and will include command-line and later a GUI version.
